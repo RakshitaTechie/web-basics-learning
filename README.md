@@ -1,17 +1,18 @@
-# Web Basics – Learning Repository
+# Web Basics – Learning Experiment
 
 ## About
-This repository contains basic files created while I was learning the fundamentals of web development.
-It represents my early learning phase before I decided to focus primarily on Python and Machine Learning.
+This repository contains a basic web form created during my initial learning phase.
+The project demonstrates simple form handling and data storage using JavaScript.
 
-## Contents
-- Basic HTML structure
-- Simple JavaScript file
-- Initial experimentation with web concepts
+## What it Includes
+- HTML form for user registration
+- JavaScript-based validation
+- Storing and retrieving data using browser localStorage
+- Displaying submitted data in a table
 
 ## Note
-This repository is kept to document my learning journey.
-I am currently focused on Python development and machine learning projects.
+This project represents an early experimentation phase while learning web fundamentals.
+I am currently focused on Python development and Machine Learning.
 
 ## Status
-Archived / Learning Reference
+Archived – kept for learning history
